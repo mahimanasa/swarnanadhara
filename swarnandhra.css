@@ -1,0 +1,129 @@
+body{
+    text-align: center;
+}
+header{ justify-content: flex-start;
+    background-color:navy;
+	color: white;
+	padding: 20px;
+}
+    li{
+        display: inline;
+	padding:30px;
+	color: white;
+    }
+    a{
+        text-decoration: none;
+        color:burlywood;
+    }
+    #Home{
+        max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin: 10px;
+    height: 100px;
+    width: 500px;
+    display:flex;
+     padding: 20px;
+         } div{
+        margin-bottom:10px ;
+        text-align: center;
+        width:"2000px";
+        height:"500px";
+        flex-wrap:wrap ;
+        }
+    #ln{
+      
+        background-color: bisque;
+        color:brown;
+        text-align: center;
+        padding: 5px;
+        margin-bottom: 10px;
+        
+    }
+
+
+     li{
+    color: black;
+   }
+     #Facility{
+        margin-bottom: 20px;
+       
+        text-align: center;
+        background-color:navy;
+	color: white;
+max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin: 10px;
+ }
+    #Facility img{
+        display: flex;
+    justify-content: space-around;
+    margin: 30px;
+    padding-top: 5px;
+    }
+#move{
+display: flex;
+background-color:aquamarine;
+}
+    #can{
+        display: flex;
+        background-color:aquamarine;
+    }#van{
+        display: flex;
+        background-color:aquamarine;
+    }#len{
+        display: flex;
+        background-color:aquamarine;
+    }#Placements{
+        margin-bottom: 20px;
+        text-align: center;
+        background-color:navy;
+	color: white;
+        }
+      #placement img{
+        background-color: white;
+       margin-top: 20px 
+        
+    }#sport{
+        display: flex;
+        background-color:aquamarine;
+    }#bus{
+display: flex;
+background-color:aquamarine;
+    }#ml{display: flex;
+    background-color:aquamarine;}
+    #About
+        {
+        margin-bottom: 20px;
+        text-align: center;
+        background-color:navy;
+	color: white;
+    }#Featured{
+        margin-bottom: 20px;
+       
+        text-align: center;
+        background-color:navy;
+        color: white;
+    }#Mahi{
+        background-color: black;
+    }.slide{
+        background-color: black;
+
+    }#Contact {
+        margin-bottom: 20px;
+        text-align: center;
+        background-color:navy;
+        color: white;
+    }#carousel {
+        width: 100%;
+        height:700px;
+        background-color: black;
+        overflow: auto auto;
+        white-space: nowrap;
+    }
+    #carousel .slide {
+        display: inline-block;}
+    
